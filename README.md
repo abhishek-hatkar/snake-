@@ -5,12 +5,7 @@ Classic Arcade Game- Snake
 
 Project Report - Snake Game
 
-By Pratibha Natani
-
-Course: Software Engineering and Testing-Portland State University
-
-Date: 30 January 2013
-
+By Abhishek Prashant Hatkar
 
 Project Description:
 This game has a board and a snake. There are food items on the board for the snake to consume. The snake moves around on the board and eats the food piece. As it consumes the food piece a new piece is created on the board and the snake length increases by 1. The user can control the direction of the snake with arrow keys. 
